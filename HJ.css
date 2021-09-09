@@ -7,6 +7,9 @@
     border:none;
     margin:auto;
     border-bottom:2px solid deepSkyblue;
+    background-color:white;
+   font-weight:bold;
+   color:blue;
 }
 #text:hover{
     width:300px;
@@ -27,6 +30,9 @@ outline:none;
    box-shadow:1px 1px 10px 1px grey;
    border-radius:5px;
    padding:2px;
+   background-color:white;
+   font-weight:bold;
+   color:blue;
 }
 #text_1:hover{
     outline-color:deepSkyblue;
